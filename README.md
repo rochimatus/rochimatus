@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning GO and ELK stacks
 - ☕ I'm comfortable to go with Java
 - 🍟 But since I'm a fast learner, I do could get going with some other languages like: Javascript, GO and also Python🐍
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? visit me on [my linkedin](https://linkedin.com/in/rochimatus-sadiyah) 
 
 <!---
